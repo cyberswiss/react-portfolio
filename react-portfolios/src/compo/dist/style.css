@@ -1,0 +1,32 @@
+.page-laser-to-text {
+  position: relative;
+  overflow: hidden;
+}
+.page-laser-to-text canvas {
+  display: block;
+}
+.page-laser-to-text input {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+  display: block;
+  outline: none;
+  background-color: rgba(38, 50, 56, 0.2);
+  color: #ffffff;
+  border: none;
+  width: 50%;
+  min-width: 500px;
+  max-width: 100%;
+  margin: auto;
+  height: 60px;
+  line-height: 60px;
+  font-size: 40px;
+  padding: 0 20px;
+}
+.page-laser-to-text input:hover, .page-laser-to-text input:focus {
+  border: 1px solid rgba(38, 50, 56, 0.6);
+}
+.page-laser-to-text input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.1);
+}
