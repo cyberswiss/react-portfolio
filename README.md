@@ -1,10 +1,13 @@
 # react-portfolio
 This is a responsive portfolio website in react using tailwind css and bulma css framework.
 
+THE LIVE VERSION OF THIS PROJECT IS HERE
+https://jolly-aryabhata-d69c0e.netlify.com/
+
 
 ->This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). and 
 
-[![CircleCI](https://circleci.com/gh/kriswep/cra-tailwindcss.svg?style=svg)](https://circleci.com/gh/kriswep/cra-tailwindcss)
+
 
 
 
@@ -21,5 +24,5 @@ after you have done this you can run the NPM START command in your terminal and 
 and then you can change the website according to your needs.
 
 PLEASE Leave a star if you like this project and share it with your friends. 
-
+Developed with love by Pranit Prakash Sahu
 
