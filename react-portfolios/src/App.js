@@ -11,8 +11,6 @@ class App extends Component {
       <div className="App">
         <Navbars/>
         <Heros/>
-     
-      
       </div>
     );
   }
